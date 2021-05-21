@@ -19,7 +19,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="30" />
   
 ### Connect with me:
-[<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618038243~hmac=5813b8a0a3acfdc05ff56e8204b63e4d" width="30" />](https://www.linkedin.com/in/ashish-yoel-585a6116a/) 
+[<img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621606190~hmac=ff80082f46e19ccc37f2985327fbe163" width="30" />](https://www.linkedin.com/in/ashish-yoel-585a6116a/) 
 [<img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="30" />](mailto:ashishyoel23@gmail.com)
 
   
