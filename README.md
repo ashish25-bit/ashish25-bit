@@ -1,28 +1,30 @@
-# ASHISH YOEL
+<div style="font-family: 'Courier New', Courier, monospace;">
+<div style="margin-bottom: 10px; font-style: italic">“ You can tell a lot about a person by seeing their code. ”</div>
 
-### Hello World 👋🏿 <img src="https://c.tenor.com/dhfraztxBo8AAAAj/globe-joypixels.gif" width="30"  />
+<div style="display:flex; gap: 10px; align-items:center; margin-bottom: 10px;">
+<div><b style="font-size: 20px;">Hello World</b> 👋🏿</div>
+<div><img src="./images/globe.gif" alt="rotating-globe" width="35px"></div>
+</div>
+<div>
+<p>- I am Ashish Yoel</p>
+<p>- Full Stack Developer</p>
+<p>- CSE SRM' 22</p>
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish25-bit&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish25-bit&theme=tokyonight&layout=compact)
 
-- Languages and Tools <br/>
-  <img src="https://image.flaticon.com/icons/png/128/753/753244.png" width="30" /> 
-  <img src="https://img.icons8.com/color/2x/typescript.png" width="30" /> 
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" width="30" /> 
-  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" width="30" /> 
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" width="30" /> 
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="30" /> 
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-128.png" width="30" /> 
-  <img src="https://cdn3.iconfinder.com/data/icons/file-formats-set-2/64/x-21-128.png" width="30" /> 
-  <img src="https://img.icons8.com/color/2x/mongodb.png" width="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="30" />
-  
-### Connect with me:
-[<img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621606190~hmac=ff80082f46e19ccc37f2985327fbe163" width="30" />](https://www.linkedin.com/in/ashish-yoel-585a6116a/) 
-[<img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="30" />](mailto:ashishyoel23@gmail.com)
+#### Languages and Tools <br/>
 
-  
+<img src="./images/react.png" width="30" alt="react" /> <img src="./images/typescript.png" width="30" alt="typescript" /> <img src="./images/node.png" width="30" alt="nodejs" /> <img src="./images/js.png" alt="js" width="30" /> <img src="./images/html.png" alt="html" width="30" /> <img src="./images/css.png" alt="css" width="30" /> <img src="./images/git.png" alt="git" width="30" /> <img src="./images/sql.png" alt="sql" width="30" /> <img src="./images/mongodb.png" width="30" alt="mongodb" /> <img src="./images/c++.svg" alt="c++" width="30" />
+
+#### Connect with me:
+
+[<img src="./images/linkedin.png" width="30" alt="linkedin" />](https://www.linkedin.com/in/ashish-yoel-585a6116a/) [<img src="./images/gmail.png" width="30" alt="gmail" />](mailto:ashishyoel23@gmail.com)
+
+</div>
+
 <!--
 **ashish25-bit/ashish25-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
