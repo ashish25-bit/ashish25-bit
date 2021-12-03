@@ -1,15 +1,11 @@
-<div style="font-family: 'Courier New', Courier, monospace;">
-<div style="margin-bottom: 10px; font-style: italic">“ You can tell a lot about a person by seeing their code. ”</div>
+_“ You can tell a lot about a person by seeing their code. ”_
+<br/>
 
-<div style="display:flex; gap: 10px; align-items:center; margin-bottom: 10px;">
-<div><b style="font-size: 20px;">Hello World</b> 👋🏿</div>
-<div><img src="./images/globe.gif" alt="rotating-globe" width="35px"></div>
-</div>
-<div>
+### Hello World</b> 👋🏿 <img src="./images/globe.gif" alt="rotating-globe" width="25px">
 <p>- I am Ashish Yoel</p>
 <p>- Full Stack Developer</p>
-<p>- CSE SRM' 22</p>
-</div>
+<p>- CSE SRM '22</p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish25-bit&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -23,7 +19,6 @@
 
 [<img src="./images/linkedin.png" width="30" alt="linkedin" />](https://www.linkedin.com/in/ashish-yoel-585a6116a/) [<img src="./images/gmail.png" width="30" alt="gmail" />](mailto:ashishyoel23@gmail.com)
 
-</div>
 
 <!--
 **ashish25-bit/ashish25-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
