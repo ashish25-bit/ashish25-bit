@@ -1,8 +1,8 @@
-_“ You can tell a lot about a person by seeing their code. ”_
+_“ You can tell a lot about a person by looking at their code. ”_
 <br/>
 
 ### Hello World</b> 👋🏿 <img src="./images/globe.gif" alt="rotating-globe" width="25px">
-<p>- I am Ashish Yoel</p>
+<p>- Ashish Yoel</p>
 <p>- Full Stack Developer</p>
 <p>- CSE SRM '22</p>
 
