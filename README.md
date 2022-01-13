@@ -17,7 +17,7 @@ _“ You can tell a lot about a person by looking at their code. ”_
 
 #### Connect with me:
 
-[<img src="./images/linkedin.png" width="30" alt="linkedin" />](https://www.linkedin.com/in/ashish-yoel-585a6116a/) [<img src="./images/gmail.png" width="30" alt="gmail" />](mailto:ashishyoel23@gmail.com)
+[<img src="./images/linkedin.svg" alt="linkedin" />](https://www.linkedin.com/in/ashish-yoel-585a6116a/) [<img src="./images/gmail.svg" alt="gmail" />](mailto:ashishyoel23@gmail.com)
 
 
 <!--
