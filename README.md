@@ -1,6 +1,3 @@
-_“ You can tell a lot about a person by looking at their code. ”_
-<br/>
-
 ### Hello World</b> 👋🏿 <img src="./images/globe.gif" alt="rotating-globe" width="25px">
 <p>- Ashish Yoel</p>
 <p>- Full Stack Developer</p>
