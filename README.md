@@ -1,4 +1,4 @@
-### Hello World</b> 👋🏿 <img src="./images/globe.gif" alt="rotating-globe" width="25px">
+### Hello World</b> 👋🏿 <img src="./images/globe.gif" alt="rotating-globe" width="25">
 <p>- Ashish Yoel</p>
 <p>- Full Stack Developer</p>
 <p>- CSE SRM '22</p>
